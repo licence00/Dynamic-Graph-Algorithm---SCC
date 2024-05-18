@@ -29,8 +29,8 @@ nvcc -o combine combine.o load.o
 <percentage_of_updates>: A float value representing the percentage of updates to apply.
 
 ## Example
-./combine example.txt 0.5
-This command runs the combine program with example.txt as the input file and 0.5 as the float value for the percentage of updates.
+./combine example.txt 0.5\
+This command runs the program with example.txt as the input file and 0.5 as the float value for the percentage of updates.
 
 
 
