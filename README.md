@@ -31,6 +31,3 @@ nvcc -o combine combine.o load.o
 ## Example
 ./combine example.txt 0.5\
 This command runs the program with example.txt as the input file and 0.5 as the float value for the percentage of updates.
-
-
-
